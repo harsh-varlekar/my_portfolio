@@ -565,6 +565,12 @@ button:focus {
   transition: all 0.4s ease 0s !important;
 }
 
+.rails-icon {
+  font-size: 3.8rem; /* Adjust font size as needed */
+  font-weight: bold;
+  color: #fefefe; /* Or any other desired color */
+}
+
 @media (max-width: 767px) {
   .tech-icons {
     margin: 10px !important;

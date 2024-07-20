@@ -13,17 +13,11 @@ function Footer() {
   return (
     <Container fluid className="footer">
       <Row>
-        <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Soumyajit Behera</h3>
-        </Col>
-        <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} SB</h3>
-        </Col>
-        <Col md="4" className="footer-body">
+        <Col md="12" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/soumyajit4419"
+                href="https://github.com/harsh-varlekar"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -33,7 +27,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/Soumyajit4419"
+                href="https://x.com/280Harsh"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +37,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/soumyajit4419/"
+                href="https://www.linkedin.com/in/harsh-varlekar-637027211"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -53,7 +47,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/soumyajit4419"
+                href="https://www.instagram.com/harsh_varlekar29?igsh=Zjcwa2cweDQ3N2py"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
